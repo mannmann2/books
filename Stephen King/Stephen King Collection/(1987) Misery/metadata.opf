@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1041</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d3dbbd2-6736-4bb8-a5f2-c49d3e082291</dc:identifier>
+        <dc:title>Misery</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-01-01T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+After an automobile accident, novelist Paul Sheldon meets his biggest fan. Annie Wilkes is his nurse-and captor. Now, she wants Paul to write his greatest work-just for her. She has a lot of ways to spur him on. One is a needle. Another is an ax. And if they don't work, she can get really nasty...</dc:description>
+        <dc:publisher>Signet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451169525</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2011-08-04T11:29:29+00:00" name="calibre:timestamp"/>
+        <meta content="Misery" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#read" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;read&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Read?&quot;}"/>
+        <meta name="calibre:user_metadata:#yesno" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#yesno&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;yesno&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Nook?&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

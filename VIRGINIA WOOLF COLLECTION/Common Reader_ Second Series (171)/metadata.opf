@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e15312ea-d4f7-4651-a58e-0cd480b941f6</dc:identifier>
+        <dc:title>Common Reader: Second Series</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-11-21T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Here, in twenty-six essays, Woolf writes of English literature in its various forms, including the poetry of Donne; the novels of Defoe, Sterne, Meredith, and Hardy; Lord Chesterfield’s letters and De Quincey’s autobiography. She writes, too, about the life and art of women.&lt;/p&gt;</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780156028165</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:41:45.531000+00:00" name="calibre:timestamp"/>
+        <meta content="Common Reader: Second Series" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

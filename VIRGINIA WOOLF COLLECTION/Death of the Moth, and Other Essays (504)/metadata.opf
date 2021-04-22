@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">504</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85040ffa-05df-4a92-b0f2-da0040ca8577</dc:identifier>
+        <dc:title>Death of the Moth, and Other Essays</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1942-02-24T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;A highly acclaimed collection of twenty-eight essays, sketches, and 
+short stories presenting nearly every facet of the author's work. &lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;"Up to
+ the author's highest standard in a literary form that was most 
+congenial to her" (Times Literary Supplement (London)).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; "Exquisitely 
+written" (New Yorker);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; "The riches of this book are overwhelming" 
+(Christian Science Monitor). &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Contains&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;div&gt;The Death of the Moth &lt;/div&gt;&lt;div&gt; Evening Over Sussex: Reflections in a Motor Car &lt;/div&gt;&lt;div&gt; Three Pictures &lt;/div&gt;&lt;div&gt; Old Mrs. Grey &lt;/div&gt;&lt;div&gt; Street Haunting: A London Adventure &lt;/div&gt;&lt;div&gt; Jones and Wilkinson &lt;/div&gt;&lt;div&gt; “Twelfth Night” at the Old Vic &lt;/div&gt;&lt;div&gt; Madame de Sévigné &lt;/div&gt;&lt;div&gt; The Humane Art &lt;/div&gt;&lt;div&gt; Two Antiquaries: Walpole and Cole &lt;/div&gt;&lt;div&gt; The Rev William Cole &lt;/div&gt;&lt;div&gt; The Historian and “The Gibbon” &lt;/div&gt;&lt;div&gt; Reflections at Sheffield Place &lt;/div&gt;&lt;div&gt; The Man at the Gate &lt;/div&gt;&lt;div&gt; Sara Coleridge &lt;/div&gt;&lt;div&gt; “Not One of Us” &lt;/div&gt;&lt;div&gt; Henry James: 1. Within the Rim &lt;/div&gt;&lt;div&gt; Henry James: 2. The Old Order &lt;/div&gt;&lt;div&gt; Henry James: 3. The letters of Henry James &lt;/div&gt;&lt;div&gt; George Moore &lt;/div&gt;&lt;div&gt; The Novels of E. M. Forster &lt;/div&gt;&lt;div&gt; Middlebrow &lt;/div&gt;&lt;div&gt; The Art of Biography &lt;/div&gt;&lt;div&gt; Craftsmanship &lt;/div&gt;&lt;div&gt; A Letter to a Young poet &lt;/div&gt;&lt;div&gt; Why? &lt;/div&gt;&lt;div&gt; Professions for Women &lt;/div&gt;&lt;div&gt; Thoughts on Peace in an Air Raid &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-24T16:17:45.328000+00:00" name="calibre:timestamp"/>
+        <meta content="Death of the Moth, and Other Essays" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

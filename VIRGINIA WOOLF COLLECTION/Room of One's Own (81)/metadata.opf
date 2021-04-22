@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">81</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">827aa167-d5e5-4296-a1db-edda964eec2b</dc:identifier>
+        <dc:title>Room of One's Own</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1929-02-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;A brilliant essay on the importance of financial and social independence to the creative process for women of genius.&lt;/p&gt;</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Non Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:40:28.390000+00:00" name="calibre:timestamp"/>
+        <meta content="Room of One's Own" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

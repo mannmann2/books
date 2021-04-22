@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3558af3-3ab0-47c0-9f38-b0fcb35f651a</dc:identifier>
+        <dc:title>Mrs. Dalloway</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-02-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Past, present and future are brought together one day in June 1923. 
+Clarissa Dalloway prepares for her party, remembering those she once 
+loved. In another part of London, Septimus Smith is on the brink of 
+madness. His day interweaves with Clarissa's.&lt;/p&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Read</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:43:38.484000+00:00" name="calibre:timestamp"/>
+        <meta content="Mrs. Dalloway" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

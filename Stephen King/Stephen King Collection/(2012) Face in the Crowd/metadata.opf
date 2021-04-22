@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb19cf33-6887-4816-b4f8-e674c808e086</dc:identifier>
+        <dc:title>Face in the Crowd</dc:title>
+        <dc:creator opf:file-as="King, Stephen &amp; O’Nan, Stewart" opf:role="aut">Stephen King</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; O’Nan, Stewart" opf:role="aut">Stewart O’Nan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.7.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h2&gt;Book Description&lt;/h2&gt;
+  &lt;div id="bookmetadata" class="buying" style=""&gt;
+        
+        &lt;span id="pubdatelabel" class="byLinePipe"&gt;Publication Date:&lt;/span&gt;
+        &lt;span id="pubdatevalue" style="font-weight: bold;"&gt;August 21, 2012&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class="content"&gt;
+  &lt;div id="outer_postBodyPS" style="overflow: hidden; z-index: 1; height: auto;"&gt;
+    &lt;div id="postBodyPS"&gt;&lt;b&gt;The writing team that delivered the bestselling &lt;i&gt;Faithful&lt;/i&gt;,
+ about the 2004 Red Sox championship season, takes readers to the 
+ballpark again, and to a world beyond, in an eBook original.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Dean Evers, an elderly widower,
+ sits in front of the television with nothing better to do than waste 
+his leftover evenings watching baseball. It’s Rays/Mariners, and David 
+Price is breezing through the line-up. Suddenly, in a seat a few rows up
+ beyond the batter, Evers sees the face of someone from decades past, 
+someone who shouldn’t be at the ballgame, shouldn’t be on the planet. 
+And so begins a parade of people from Evers’s past, all of them 
+occupying that seat behind home plate. Until one day Dean Evers sees 
+someone even eerier….&lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Stephen King&quot;: &quot;&quot;, &quot;Stewart O’Nan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-10-28T09:28:04.794000+00:00" name="calibre:timestamp"/>
+        <meta content="Face in the Crowd" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

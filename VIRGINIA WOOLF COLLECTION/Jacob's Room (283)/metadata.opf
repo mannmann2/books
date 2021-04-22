@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e52d021-87fc-4e9f-8108-bf85a548e881</dc:identifier>
+        <dc:title>Jacob's Room</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1922-02-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Impressionistic novel by Virginia Woolf, published in 1922. Experimental in form, it centers on the character of Jacob Flanders, a lonely young man unable to synthesize his love of classical culture with the chaotic reality of contemporary society, notably the turbulence of World War I. The novel is an examination of character development and the meaning of a life by means of a series of brief impressions and conversations, stream of consciousness, internal monologue, and Jacob's letters to his mother. In zealous pursuit of classicism, Jacob studies the ancients at Cambridge and travels to Greece. He either idealizes or ignores the women who admire him. At the end of the novel all that remains of Jacob's life are scattered objects in an abandoned room.&lt;/p&gt;</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781451578027</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:43:14.828000+00:00" name="calibre:timestamp"/>
+        <meta content="Jacob's Room" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1008</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c2d7c74-778d-46f7-9788-b9b69e9c8660</dc:identifier>
+        <dc:title>Cell</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Witness Stephen King's triumphant, blood-spattered return to the genre that made him famous. Cell, the king of horror's homage to zombie films (the book is dedicated in part to George A. Romero) is his goriest, most horrific novel in years, not to mention the most intensely paced. Casting aside his love of elaborate character and town histories and penchant for delayed gratification, King yanks readers off their feet within the first few pages; dragging them into the fray and offering no chance catch their breath until the very last page. 
+ In Cell King taps into readers fears of technological warfare and terrorism. Mobile phones deliver the apocalypse to millions of unsuspecting humans by wiping their brains of any humanity, leaving only aggressive and destructive impulses behind. Those without cell phones, like illustrator Clayton Riddell and his small band of "normies," must fight for survival, and their journey to find Clayton's estranged wife and young son rockets the book toward resolution. 
+ Fans that have followed King from the beginning will recognize and appreciate Cell as a departure--King's writing has not been so pure of heart and free of hang-ups in years (wrapping up his phenomenal Dark Tower series and receiving a medal from the National Book Foundation doesn't hurt either). "Retirement" clearly suits King, and lucky for us, having nothing left to prove frees him up to write frenzied, juiced-up horror-thrillers like Cell.  --Daphne Durham  --This text refers to the Hardcover edition. 
+
+      
+  Starred Review. It's probably a good idea not to use your cell phone while you listen to Scott's beautifully understated reading of terrormeister King's latest take on technology run amok: you might just toss it down the nearest storm drain. The excellent film actor (who catches the power of his late father George C. Scott's voice but smooths off the rough edges) adds an important element—quiet believability—to King's bloody, occasionally over-the-top story of a short but lethal electronic signal that seriously damages everyone in the world using a cell phone at that moment. The Pulse, as it comes to be known, turns idle chatterers into weirdly rewired killing machines. Scott makes the lead character—a comic book artist from Maine (where else?) named Clayton Riddell, who is in Boston with his phone off and in his pocket—a touching and surprisingly tough survivor, much like the nonpods in Invasion of the Body Snatchers. He also resists the temptation to make the "phoners" (those affected by the Pulse) sound unusually strange or dangerous—until their real motives become obvious. Simultaneous release with the Scribner hardcover (Reviews, Jan. 2). (Jan.) 
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.  --This text refers to the Audio CD edition. 
+
+     
+  Fans have offered their horror-fiction idol unfaltering loyalty since the publication of his first novel, Carrie, three decades ago. More than 50 books later, Stephen King's stock-in-trade remains stinging, darkly humorous social commentary. His latest effort, a nod to gore-meisters George Romero (Night of the Living Dead) and Richard Matheson (I Am Legend), among others, is no different. The result, though entertaining, is uneven. Some reviewers appreciate King for his prodigious imagination and his storytelling abilities, while others take issue with his two-dimensional characters, scattershot plotting, and the too-obvious echoes of past novels. For longtime fans of King's work, Cell may bring to mind a more compact (though ultimately less satisfying) version of the author's epic The Stand.
+Copyright &amp;#169; 2004 Phillips &amp; Nelson Media, Inc.  --This text refers to the Hardcover edition.</dc:description>
+        <dc:publisher>Hodder &amp; Stoughton Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780340921449</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2011-08-01T07:07:27+00:00" name="calibre:timestamp"/>
+        <meta content="Cell" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#read" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;read&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Read?&quot;}"/>
+        <meta name="calibre:user_metadata:#yesno" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#yesno&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;yesno&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Nook?&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

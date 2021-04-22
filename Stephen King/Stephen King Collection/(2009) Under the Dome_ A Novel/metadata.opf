@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bf1e345-c807-46d1-907d-ca1fcbdb9c4b</dc:identifier>
+        <dc:title>Under the Dome: A Novel</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-09T12:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY: On an entirely normal, beautiful fall day in Chester's Mill, Maine, the town is inexplicably and suddenly sealed off from the rest of the world by an invisible force field. Planes crash into it and fall from the sky in flaming wreckage, a gardener's hand is severed as "the dome" comes down on it, people running errands in the neighboring town are divided from their families, and cars explode on impact. No one can fathom what this barrier is, where it came from, and when -- or if -- it will go away.Dale Barbara, Iraq vet and now a short-order cook, finds himself teamed with a few intrepid citizens -- town newspaper owner Julia Shumway, a physician's assistant at the hospital, a select-woman, and three brave kids. Against them stands Big Jim Rennie, a politician who will stop at nothing -- even murder -- to hold the reins of power, and his son, who is keeping a horrible secret in a dark pantry. But their main adversary is the Dome itself. Because time isn't just short. It's running out.&lt;/p&gt;</dc:description>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439148501</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>King</dc:subject>
+        <dc:subject>Stephen - Prose &amp; Criticism</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>American Horror Fiction</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Fiction - Horror</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Suspense fiction</dc:subject>
+        <dc:subject>Horror - General</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Veterans</dc:subject>
+        <dc:subject>Maine</dc:subject>
+        <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2011-10-09T09:07:56+00:00" name="calibre:timestamp"/>
+        <meta content="Under the Dome: A Novel" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

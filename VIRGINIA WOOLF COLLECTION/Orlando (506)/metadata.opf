@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">506</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97cb04a6-87a7-45f9-84c8-12b48bfd913c</dc:identifier>
+        <dc:title>Orlando</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1928-02-24T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;In 1928, way before everyone else was talking about gender-bending and 
+way, Virginia Woolf 
+wrote her comic masterpiece, a fantastic, fanciful love letter disguised
+ as a biography, to Vita Sackville-West. Orlando enters the book as an 
+Elizabethan nobleman and leaves the book three centuries and one change 
+of gender later as a liberated woman of the 1920s. Along the way this 
+most rambunctious of Woolf's characters engages in sword fights, trades 
+barbs with 18th century wits, has a baby, and drives a car. This is a 
+deliriously written, breathless-making book and a classic both of 
+lesbian literature and the Western canon. &lt;/p&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Read</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-24T21:59:40.594000+00:00" name="calibre:timestamp"/>
+        <meta content="Orlando" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

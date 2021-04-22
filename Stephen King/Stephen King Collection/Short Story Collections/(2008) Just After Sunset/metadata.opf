@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">925</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce23eb99-e3a8-4fad-ba66-ddca3c0817bc</dc:identifier>
+        <dc:title>Just After Sunset</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-22T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: Stephen King -- who has written more than fifty books, dozens of number one *New York Times* bestsellers, and many unforgettable movies -- delivers an astonishing collection of short stories, his first since *Everything's Eventual* six years ago. As guest editor of the bestselling *Best American Short Stories 2007*, King spent over a year reading hundreds of stories. His renewed passion for the form is evident on every page of *Just After Sunset*. The stories in this collection have appeared in *The New Yorker*, *Playboy*, *McSweeney's*, *The Paris Review*, *Esquire*, and other publications. Who but Stephen King would turn a Port-O-San into a slimy birth canal, or a roadside honky-tonk into a place for endless love? A book salesman with a grievance might pick up a mute hitchhiker, not knowing the silent man in the passenger seat listens altogether too well. Or an exercise routine on a stationary bicycle, begun to reduce bad cholesterol, might take its rider on a captivating -- and then terrifying -- journey. Set on a remote key in Florida, "The Gingerbread Girl" is a riveting tale featuring a young woman as vulnerable -- and resourceful -- as Audrey Hepburn's character in *Wait Until Dark*. In "Ayana," a blind girl works a miracle with a kiss and the touch of her hand. For King, the line between the living and the dead is often blurry, and the seams that hold our reality intact might tear apart at any moment. In one of the longer stories here, "N.," which recently broke new ground when it was adapted as a graphic digital entertainment, a psychiatric patient's irrational thinking might create an apocalyptic threat in the Maine countryside...or keep the world from falling victim to it. *Just After Sunset* -- call it dusk, call it twilight, it's a time when human intercourse takes on an unnatural cast, when nothing is quite as it appears, when the imagination begins to reach for shadows as they dissipate to darkness and living daylight can be scared right out of you. It's the perfect time for Stephen King.</dc:description>
+        <dc:publisher>Pocket</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416586654</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2011-07-08T12:51:05+00:00" name="calibre:timestamp"/>
+        <meta content="Just After Sunset" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#read" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;read&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Read?&quot;}"/>
+        <meta name="calibre:user_metadata:#yesno" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#yesno&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;yesno&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Nook?&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

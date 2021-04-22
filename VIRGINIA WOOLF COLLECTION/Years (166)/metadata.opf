@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e40701c5-58a1-4719-b5b6-cf147caeb29c</dc:identifier>
+        <dc:title>Years</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1937-02-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;The story of the Pargiter family - their intimacies and estrangements, 
+anxieties and triumphs - mapped out amongst the bustling rhythms of 
+London's streets during the first decade of the 20th century. The 
+Pargiter children must learn to find their footing in a world of rapidly
+ changing rules.&lt;/p&gt;</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:41:35.843000+00:00" name="calibre:timestamp"/>
+        <meta content="Years" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

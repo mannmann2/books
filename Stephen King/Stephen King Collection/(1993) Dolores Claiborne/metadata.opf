@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">978</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e76c594-4131-487f-b34f-f364eb1e726c</dc:identifier>
+        <dc:title>Dolores Claiborne</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-06T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+ Extraordinarily vivid...an impressive tour de force, a sensitive character study that holds the reader rapt. 
+PlayboyMore of a mystery than a horror novel, Dolores Claiborne contains  only the briefest glances at the supernatural.	The novel presents Stephen  King as a writer experimenting with style and narrative, time and  perspective.  Fans looking for a skin-crawling, page-turning fright or an  undead bloodbath will be disappointed, but a patient reader willing to  savor King's leisurely study of character and island life will find many  rewards.  And all of this is not to say that the book is without  suspense.
+    The story unfolds in one continuous chapter, told in the first person by  the cranky, 65-year-old housekeeper, Dolores, who is explaining to  police officers and a stenographer how and why she killed her husband, Joe,  30 years ago.  At the same time, in her rambling monologue, she insists  that she did not kill her longtime employer, Vera  Donovan--notwithstanding what the residents of Little Tall Island may be  whispering.  Joe was a drinker, and, as Dolores gradually argues, he  deserved to die for the horrifying crimes he committed against his family.   But Vera, despite her cantankerous disposition as a lady governing her  decaying estate with her precise rules about even the most mundane  household chore ("Six pins! Remember to use six pins! Don't you let the  wind blow my good sheets down to the corner of the yard!"), was a good  woman--or at least not an evil one.  She was the woman who hired the young  Dolores and kept her on even after Dolores got pregnant again. Dolores  cleaned and cared for her even as the old matron faded into   senility.
+    Dolores Claiborne is a rich novel that recalls the regionalist  writing of the turn of the century.  It is a fine place for a skeptical  newcomer--put off by King's reputation for outright terror--to start. And  for fans, it is a book that offers new insights into an author who's an old  favorite. --Patrick O'Kelley</dc:description>
+        <dc:publisher>Signet Book</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451177094</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2011-07-19T00:42:04+00:00" name="calibre:timestamp"/>
+        <meta content="Dolores Claiborne" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#read" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;read&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Read?&quot;}"/>
+        <meta name="calibre:user_metadata:#yesno" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#yesno&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;yesno&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Nook?&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6024d8e5-9fe4-4df3-a502-07098e44803b</dc:identifier>
+        <dc:title>Common Reader: First Series</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-11-21T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div class="blurb"&gt;What she produced is an eccentric and unofficial 
+literary and social history from the fourteenth to the twentieth 
+century, with an excursion to ancient Greece thrown in. she investigates
+ medieval England, tsarist Russia, Elizabethan playwrights, Vicotiran 
+novelists and modern essayists. When she published this book Woolf's 
+fame as a novelist was already established: now she was hailed as a 
+brilliant interpretative critic. Here, she addresses her 'common reader'
+ in the remarkable prose and with all the imagination and gaiety that 
+are the stamp of her genius.&lt;/div&gt;&lt;div class="spacer"&gt;&lt;/div&gt;&lt;p class="description"&gt;&lt;br&gt;Woolf’s first and most popular volume of essays. This collection has more than twenty-five selections, including such important statements as “Modern Fiction” and “The Modern Essay.” Edited and with an Introduction by Andrew McNeillie;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>The University of Adelaide Library</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780156027786</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:40:58.765000+00:00" name="calibre:timestamp"/>
+        <meta content="Common Reader: First Series" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

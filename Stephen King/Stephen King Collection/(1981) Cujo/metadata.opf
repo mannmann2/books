@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1034</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d066684-36a0-4275-8b94-c3389127f01f</dc:identifier>
+        <dc:title>Cujo</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1982-08-01T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Cujo is so well-paced and scary that people tend to read it quickly, so they mostly remember the scene of the mother and son trapped in the hot Pinto and threatened by the rabid Cujo, forgetting the multifaceted story in which that scene is embedded. This is definitely a novel that rewards re-reading. When you read it again, you can pay more attention to the theme of country folk vs. city folk; the parallel marriage conflicts of the Cambers vs. the Trentons; the poignancy of the amiable St. Bernard (yes, the breed choice is just right) infected by a brain-destroying virus that makes it into a monster; and the way the "daylight burial" of the failed ad campaign is reflected in the sunlit Pinto that becomes a coffin. And how significant it is that this horror tale is not supernatural: it's as real as junk food, a failing marriage, a broken-down car, or a fatal virus.</dc:description>
+        <dc:publisher>Signet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451161352</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2011-08-04T11:28:20+00:00" name="calibre:timestamp"/>
+        <meta content="Cujo" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#read" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;read&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Read?&quot;}"/>
+        <meta name="calibre:user_metadata:#yesno" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#yesno&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;yesno&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Nook?&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a656cb6-6b79-495d-bfcf-5bbb95835bcd</dc:identifier>
+        <dc:title>Waves</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1931-02-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;One of Woolf’s most experimental novels, The Waves presents six 
+characters in monologue - from morning until night, from childhood into 
+old age - against a background of the sea. The result is a glorious 
+chorus of voices that exists not to remark on the passing of events but 
+to celebrate the connection between its various individual parts.&lt;/p&gt;</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:41:23.781000+00:00" name="calibre:timestamp"/>
+        <meta content="Waves" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

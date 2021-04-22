@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">505</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">200d8f1f-1b76-4596-9ed4-3a0e80b78a0c</dc:identifier>
+        <dc:title>Haunted House and Other Short Stories</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.4) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1921-02-24T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;"They seem as perfect, and as functional for all their beauty, has 
+spider webs. Indeed they were made for like purpose: to trap and disect 
+living morsels in the form of palpitating moments of time, instantaneous
+ perceptions, of brief visions of others who were to give us uncaptured,
+ breathing, even struggling in so betrend themselves - an illusion of 
+life. The extreme beauty of her writing is due greatly to one fact, that
+ the imprisionment of life and the words have as much a matter of the 
+senses Virginia Wolf's as it was a concern of the intellect."  Eudora 
+Welty (&lt;i&gt;The New York Times Book Review&lt;/i&gt; )&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contains:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;A Haunted House&lt;/div&gt;&lt;div&gt;Monday or Tuesday&lt;/div&gt;&lt;div&gt;An Unwritten Novel&lt;/div&gt;&lt;div&gt;The String Quartet&lt;/div&gt;&lt;div&gt;Kew Gardens&lt;/div&gt;&lt;div&gt;The Mark on the Wall&lt;/div&gt;&lt;div&gt;The New Dress&lt;/div&gt;&lt;div&gt;The Shooting Party&lt;/div&gt;&lt;div&gt;Lappin and Lapinova&lt;/div&gt;&lt;div&gt;Solid Objects&lt;/div&gt;&lt;div&gt;The Lady in the Looking-Glass&lt;/div&gt;&lt;div&gt;The Duchess and the Jeweller&lt;/div&gt;&lt;div&gt;Moments of Being&lt;/div&gt;&lt;div&gt;The Man Who Loved his Kind&lt;/div&gt;&lt;div&gt;The Searchlight&lt;/div&gt;&lt;div&gt;The Legacy&lt;/div&gt;&lt;div&gt;Together and Apart&lt;/div&gt;&lt;div&gt;A Summing Up&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780156028035</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-24T21:31:53+00:00" name="calibre:timestamp"/>
+        <meta content="Haunted House and Other Short Stories" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

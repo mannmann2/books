@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba42a94b-7b6c-4663-971b-fbe3df13ca92</dc:identifier>
+        <dc:title>The Slow Regard of Silent Things: A Kingkiller Chronicle Novella (The Kingkiller Chronicle)</dc:title>
+        <dc:creator opf:file-as="Rothfuss, Patrick" opf:role="aut">Patrick Rothfuss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.16.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-28T00:00:00+00:00</dc:date>
+        <dc:description>&lt;span id="freeText1278663208495080996"&gt;Deep below the 
+University, there is a dark place. Few people know of it: a broken web 
+of ancient passageways and abandoned rooms. A young woman lives there, 
+tucked among the sprawling tunnels of the Underthing, snug in the heart 
+of this forgotten place.&lt;br&gt;&lt;br&gt;Her name is Auri, and she is full of mysteries.&lt;br&gt;&lt;br&gt;&lt;em&gt;The Slow Regard of Silent Things&lt;/em&gt;
+ is a brief, bittersweet glimpse of Auri’s life, a small adventure all 
+her own. At once joyous and haunting, this story offers a chance to see 
+the world through Auri’s eyes. And it gives the reader a chance to learn
+ things that only Auri knows...&lt;br&gt;&lt;br&gt;In this book, Patrick Rothfuss brings us into the world of one of &lt;em&gt;The Kingkiller Chronicle’s&lt;/em&gt; most enigmatic characters. Full of secrets and mysteries, &lt;em&gt;The Slow Regard of Silent Things&lt;/em&gt; is the story of a broken girl trying to live in a broken world.&lt;br&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>ORION</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00JZVKSN4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Patrick Rothfuss&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-02-02T23:28:48.893000+00:00" name="calibre:timestamp"/>
+        <meta content="Slow Regard of Silent Things: A Kingkiller Chronicle Novella (The Kingkiller Chronicle), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

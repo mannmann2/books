@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">314</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9f32bda-a7e9-46a3-8349-3828afe7e3bb</dc:identifier>
+        <dc:title>Monday or Tuesday</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1921-11-21T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;In this early collection of eight short stories by Virginia Woolf conventional notions of plot and character are abandoned for a stream of consciousness, almost dream-like and experimental form of prose. Readers while find the relative brevity of this volume, and the stories within it, helpful in overcoming any unfamiliarity with this style of writing. &lt;/p&gt;&lt;p class="description"&gt;&lt;b&gt;Contains&lt;/b&gt;: &lt;/p&gt;&lt;p class="description"&gt;A Haunted House&lt;/p&gt;&lt;p class="description"&gt;A Society&lt;/p&gt;&lt;p class="description"&gt;Monday or Tuesday&lt;/p&gt;&lt;p class="description"&gt;An Unwritten Novel&lt;/p&gt;&lt;p class="description"&gt;The String Quartet&lt;/p&gt;&lt;p class="description"&gt;Blue and Green&lt;/p&gt;&lt;p class="description"&gt;Kew Gardens&lt;/p&gt;&lt;p class="description"&gt;The Mark on the Wall&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:43:37.296000+00:00" name="calibre:timestamp"/>
+        <meta content="Monday or Tuesday" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

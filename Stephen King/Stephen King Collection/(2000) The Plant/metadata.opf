@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e655f7f5-bd01-4d2b-85c5-75ee31adb834</dc:identifier>
+        <dc:title>The Plant</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.7.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-23T14:46:14+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Internet eBook</dc:subject>
+        <dc:subject>xxXsTmXxx</dc:subject>
+        <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-10-27T02:42:23.031000+00:00" name="calibre:timestamp"/>
+        <meta content="Plant, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

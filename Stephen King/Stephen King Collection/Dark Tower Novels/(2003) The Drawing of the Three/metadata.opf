@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">992</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d965530-6305-4b38-a092-045dbee1916c</dc:identifier>
+        <dc:title>The Drawing of the Three</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-20T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY: Beginning with a short story appearing in The Magazine of Fantasy and Science Fiction in 1978, the publication of Stephen King's epic work of fantasy-what he considers to be a single long novel and his magnum opus-has spanned a quarter of a century. Set in a world of extraordinary circumstances, filled with stunning visual imagery and unforgettable characters, The Dark Tower series is King's most visionary feat of storytelling, a magical mix of science fiction, fantasy, and horror that may well be his crowning achievement. In November 2003, the fifth installment, Wolves of the Calla, will be published under the imprint of Donald M. Grant, with distribution and major promotion provided by Scribner. Song of Susannah, Book VI, and The Dark Tower, Book VII, will follow under the same arrangement in 2004. With these last three volumes finally on the horizon, readers-countless King readers who have yet to delve into The Dark Tower and a multitude of new and old fantasy fans-can now look forward to reading the series straight through to its stunning conclusion. Viking's elegant reissue of the first four books ensures that for the first time The Dark Tower will be widely available in hardcover editions for this eager readership.&lt;/p&gt;</dc:description>
+        <dc:publisher>Plume</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452279612</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="The Dark Tower" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2011-07-26T10:54:51+00:00" name="calibre:timestamp"/>
+        <meta content="Drawing of the Three, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#read" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: true, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;read&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Read?&quot;}"/>
+        <meta name="calibre:user_metadata:#yesno" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#yesno&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;yesno&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Nook?&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

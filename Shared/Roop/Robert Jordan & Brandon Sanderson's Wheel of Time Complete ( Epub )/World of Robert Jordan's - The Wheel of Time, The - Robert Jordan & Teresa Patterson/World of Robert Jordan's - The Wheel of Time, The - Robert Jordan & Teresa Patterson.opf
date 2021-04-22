@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc960dcf-a2ee-4ddb-a80c-c8b5360ad7e2</dc:identifier>
+        <dc:title>The World of Robert Jordan’s - The Wheel of Time</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert &amp; Patterson, Teresa" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:creator opf:file-as="Jordan, Robert &amp; Patterson, Teresa" opf:role="aut">Teresa Patterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.13) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-13T05:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Robert Jordan&quot;: &quot;&quot;, &quot;Teresa Patterson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0.0" name="calibre:rating"/>
+        <meta content="2013-01-13T19:20:55+00:00" name="calibre:timestamp"/>
+        <meta content="World of Robert Jordan’s - The Wheel of Time, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="World of Robert Jordan's - The Wheel of Time, The - Robert Jordan &amp; Teresa Patterson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

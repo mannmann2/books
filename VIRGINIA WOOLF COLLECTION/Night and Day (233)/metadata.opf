@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">233</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02b91f25-b8dd-4ef7-8db9-f71b6f073c19</dc:identifier>
+        <dc:title>Night and Day</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1919-02-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Night and Day, Virginia Woolf's second novel, is both a love story and a
+ social comedy in the tradition of Jane Austen; yet it also questions 
+that tradition, recognizing that the goals of society and the individual
+ may not necessarily coincide. At its centre is Katharine Hilbery, the 
+beautiful grand-daughter of a great Victorian poet. She must choose 
+between becoming engaged to the oddly prosaic poet William Rodney and 
+her attraction to Ralph Denham, with whom she feels a more profound and 
+disturbing affinity. Katharine's hesitation is vividly contrasted with 
+the approach of her friend Mary Datchet, dedicated to the Women's Rights
+ movement. The ensuing complications are underlined and to some extent 
+unravelled by Katharine's mother, Mrs Hilbery, whose struggles to weave 
+together the known documents, events and memories of her father's life 
+into a coherent biography reflect Woolf's own sense of the unique and 
+elusive nature of experience.&lt;/p&gt;</dc:description>
+        <dc:publisher>Barnes &amp; Noble</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:42:33.312000+00:00" name="calibre:timestamp"/>
+        <meta content="Night and Day" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

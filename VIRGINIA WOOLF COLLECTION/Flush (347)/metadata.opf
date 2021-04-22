@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebd6fdb3-9a04-4472-a6b0-515eb524b0d5</dc:identifier>
+        <dc:title>Flush</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1933-11-21T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;A novel contribution to Browning material, which will interest anyone who saw THE BARRETTS OF WIMPOLE STREET, anyone who is collecting Browning data, and most people who like to read about dogs. For with the slenderest material to work on, Miss Woolf has produced a sympathetic study of the famous spaniel, and made him a real and vivid personality. First owned by Miss Mitford, he roamed the country at will; after he was given to Miss Barrett, he settled down into the role of invalid's dog. When Robert Browning appeared on the scene, he showed keen resentment at sharing his mistress' attention, but eventually accepted him as inevitable. The move to Italy was a ticket to freedom. Though essentially Flush's story, Virginia Woolf has given interesting sidelights on the Brownings and those associated with them, and she has told it in her most delightful style, devoid of the indirection and obscurity of most of her fiction. &lt;/p&gt;</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780156319522</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:44:20.062000+00:00" name="calibre:timestamp"/>
+        <meta content="Flush" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

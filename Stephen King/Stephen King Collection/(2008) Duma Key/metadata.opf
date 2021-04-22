@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1037</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f408b50-2e71-48b5-8c93-4b05c38ed1aa</dc:identifier>
+        <dc:title>Duma Key</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-21T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**No more than a dark pencil line on a blank page. A horizon line, maybe. But also a slot for blackness to pour through...**
+
+A terrible construction site accident takes Edgar Freemantle's right arm and scrambles his memory and his mind, leaving him with little but rage as he begins the ordeal of rehabilitation. A marriage that produced two lovely daughters suddenly ends, and Edgar begins to wish he hadn't survived the injuries that could have killed him. He wants out. His psychologist, Dr. Kamen, suggests a "geographic cure," a new life distant from the Twin Cities and the building business Edgar grew from scratch. And Kamen suggests something else. 
+
+*"Edgar, does anything make you happy?" 
+
+"I used to sketch."
+
+"Take it up again. You need hedges...hedges against the night."*
+
+Edgar leaves Minnesota for a rented house on Duma Key, a stunningly beautiful, eerily undeveloped splinter of the Florida coast. The sun setting into the Gulf of Mexico and the tidal rattling of shells on the beach call out to him, and Edgar draws. A visit from Ilse, the daughter he dotes on, starts his movement out of solitude. He meets a kindred spirit in Wireman, a man reluctant to reveal his own wounds, and then Elizabeth Eastlake, a sick old woman whose roots are tangled deep in Duma Key. Now Edgar paints, sometimes feverishly, his exploding talent both a wonder and a weapon. Many of his paintings have a power that cannot be controlled. When Elizabeth's past unfolds and the ghosts of her childhood begin to appear, the damage of which they are capable is truly devastating. The tenacity of love, the perils of creativity, the mysteries of memory and the nature of the supernatural -- Stephen King gives us a novel as fascinating as it is gripping and terrifying.</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416552963</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2011-08-04T11:28:41+00:00" name="calibre:timestamp"/>
+        <meta content="Duma Key" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#read" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;read&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Read?&quot;}"/>
+        <meta name="calibre:user_metadata:#yesno" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#yesno&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;yesno&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Nook?&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

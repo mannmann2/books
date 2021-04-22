@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7031f3c4-ce3f-4816-891a-58d606f3c18b</dc:identifier>
+        <dc:title>Three Guineas</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1939-02-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;The highly controversial "Three Guineas" was Virginia Woolf's most 
+explicit statement of her feminism. Forming part of the "Shakespeare 
+Head Press" series of Woolf's works, this new edition includes her 
+carefully considered selection of photographs, her discursive endnotes 
+and extensive new annotations of her references and allusions.&lt;/p&gt;</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Non Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:41:03.859000+00:00" name="calibre:timestamp"/>
+        <meta content="Three Guineas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

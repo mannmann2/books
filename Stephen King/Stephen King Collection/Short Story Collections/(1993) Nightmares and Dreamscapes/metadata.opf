@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">015b4c32-ffc6-4ba3-bcb3-27c2f262cf00</dc:identifier>
+        <dc:title>Nightmares and Dreamscapes</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-09-01T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY: King's third collection, after Night Shift (1978) and Skeleton Crew (1985), offers 23 formerly uncollected works, with King as bizarre as ever. A handful of the stories have been rewritten or dressed up for this occasion. King's introduction (a defense against the ivory tower opinions of his critics) and endnotes mentions several sources, including The New Yorker, which printed the lengthy ``Heads Down''--about Little League teams up in Maine--that King calls ``the best nonfiction writing of my life.'' Other oddities are a nostalgic baseball poem and a downbeat teleplay, ``Sorry, Right Number,'' which appeared on Tales from the Darkside. Some pieces display King's charging, looser, richly vulgar style (``Dolan's Cadillac,'' a revenge tale in which the narrator gets even with a Mafia chieftain who killed the hero's wife, and buries him alive in his Caddie), while others occasionally show an unusually neat style hardly different from any other journeyman writer's, aside from the magical King touches (``The Moving Finger''--perhaps the best in the collection, about a man haunted by a live finger that keeps climbing out of the drain of his bathroom sink and finally grows to seven feet). Still others strive for human feeling (``Dedication''--about a longtime black cleaning maid in a fancy hotel who gets whammied by a voodoo lady and made pregnant by sperm on the bedsheets of a white novelist whose writing style gets passed on to her son)--and then some are just the King ticket readers expect: ``The End of the Whole Mess''-- about a polymathic genius who discovers the way to end man's inhumanity to man by altering his drinking water. Addicts, fear not: the King lives.&lt;/p&gt;</dc:description>
+        <dc:publisher>Signet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451180230</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <meta content="{&quot;Stephen King&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2011-06-26T04:04:37+00:00" name="calibre:timestamp"/>
+        <meta content="Nightmares and Dreamscapes" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#read" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: true, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;read&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Read?&quot;}"/>
+        <meta name="calibre:user_metadata:#yesno" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#yesno&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;yesno&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Nook?&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

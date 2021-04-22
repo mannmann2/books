@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">897f267d-a2a5-41b1-9db6-ba6d5d8d6d05</dc:identifier>
+        <dc:title>Between the Acts</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1941-02-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Outwardly a novel about country-house life, set in a house in whose 
+grounds there is to be a pageant, this is an evocation of English 
+experience in the months leading up to World War II. Through dialogue 
+and humour, the author explores how a community is formed and scattered 
+over time. &lt;/p&gt;</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:40:47.296000+00:00" name="calibre:timestamp"/>
+        <meta content="Between the Acts" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

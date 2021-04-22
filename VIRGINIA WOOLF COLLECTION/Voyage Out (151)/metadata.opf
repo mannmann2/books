@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a3c4b02-6fda-4eba-bc8a-b6ea52554c10</dc:identifier>
+        <dc:title>Voyage Out</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1915-02-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Virginia Woolf's haunting first novel follows Mr. and Mrs. Ambrose and 
+their young niece on a sea voyage from London to South America.&lt;/p&gt;</dc:description>
+        <dc:publisher>Barnes &amp; Noble</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:41:21.390000+00:00" name="calibre:timestamp"/>
+        <meta content="Voyage Out" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

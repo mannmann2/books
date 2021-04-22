@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f16b994-eef3-40ba-929a-c5511836f98f</dc:identifier>
+        <dc:title>To the Lighthouse</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Woolf, Virginia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-01-03T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;This is the story of the Ramsays, based on Virginia Woolf's own family. 
+Written in the stream-of-consciousness style, the book examines family 
+relationships, the traditional roles of the sexes, the tensions and love
+ between husband and wife and the resentment children can feel for their
+ parents. &lt;/p&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-16T23:41:08.078000+00:00" name="calibre:timestamp"/>
+        <meta content="To the Lighthouse" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
