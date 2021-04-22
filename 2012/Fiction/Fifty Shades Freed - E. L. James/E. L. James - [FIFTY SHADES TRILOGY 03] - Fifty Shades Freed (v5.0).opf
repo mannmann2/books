@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c9515e9-4c50-4385-83b2-a93d494b4370</dc:identifier>
+        <dc:title>Fifty Shades Freed</dc:title>
+        <dc:creator opf:file-as="James, E. L." opf:role="aut">E. L. James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.45) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;When unworldly student Ana Steele first encountered the driven, damaged young entrepreneur Christian Grey it sparked a sensual affair that changed both their lives irrevocably. Shocked, intrigued, and ultimately repelled by Christian’s singular sexual tastes, Ana demanded a deeper commitment; determined to keep her, Christian agreed. Now, together, they have more – love, passion, intimacy, and a world of infinite possibilities. But Ana always knew that loving her Fifty Shades would not be easy, and being together poses challenges neither of them ever anticipated. Ana must somehow learn to share Christian’s opulent lifestyle without sacrificing her own integrity, identity or independence; Christian must somehow overcome his compulsion to control, and lay to rest the horrors that blighted his past and haunt his present. Just when it seems that together their love can conquer any obstacle, misfortune, malice and fate combine to make Ana’s worst nightmares come true. Alone and desperate, she must face down the poisoned legacy of Christian’s past. Seductive, shocking, sad and funny, Fifty Shades Freed is the compelling final volume in the Fifty Shades trilogy.&lt;/p&gt;</dc:description>
+        <dc:publisher>ARROW</dc:publisher>
+        <dc:identifier opf:scheme="EPUBBUD">http|//www.epubbud.com/epubs/4/Q/4QG593ZX/Fifty_Shades_Freed.epub</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780099579946</dc:identifier>
+        <dc:identifier opf:scheme="FF">j/e-l-james/fifty-shades-freed</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">12881778</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="{&quot;E. L. James&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Fifty Shades Trilogy" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-04-06T05:43:29+00:00" name="calibre:timestamp"/>
+        <meta content="Fifty Shades Freed" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {&quot;cache_to_list&quot;: &quot;|&quot;, &quot;list_to_ui&quot;: &quot;, &quot;, &quot;ui_to_list&quot;: &quot;,&quot;}, &quot;is_multiple&quot;: &quot;|&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: [&quot;Romance&quot;], &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;genre&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Genre&quot;}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 3, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 24, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;make_category&quot;: true, &quot;composite_sort&quot;: &quot;text&quot;, &quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;Formats&quot;}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;#value#&quot;: 10, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Quality&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="E. L. James - [FIFTY SHADES TRILOGY 03] - Fifty Shades Freed (v5.0).jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Kensington Publishing Corp.</dc:publisher>
+    <dc:description>&lt;p&gt;&lt;B&gt;Afraid To Scream&lt;/B&gt;&lt;P&gt;Others may dread the chill of winter, but he relishes it. The way the frigid water preserves his victims, the feel of their icy skin beneath his fingers. . . And soon the world will see their beauty&amp;#8212;and his vengeance.&lt;p&gt;&lt;B&gt;Afraid To Run&lt;/B&gt;&lt;p&gt;The town of Grizzly Falls is on edge in the wake of a serial killer, and Detective Selena Alvarez is no exception. That case was solved, but a new nightmare is about to unfold. There are two victims so far&amp;#8212;their bodies found frozen solid and deliberately displayed. Both are women she knew. And each wears a piece of Selena's jewelry. . .&lt;P&gt;&lt;B&gt;Afraid To Die&lt;/B&gt;&lt;P&gt;Selena's partner, Detective Regan Pescoli, and the entire department are on the case, as is P.I. Dylan O'Keefe&amp;#8212;a man Selena got too close to once before. But this killer already knows too much about Selena's secret terror, her flaws, and the past she's tried to outrun. And soon he'll show her that she has every reason to be afraid. . .</dc:description>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Lisa Jackson</dc:creator>
+    <meta name="calibre:timestamp" content="2012-06-16T19:54:34.792000+00:00"/>
+    <dc:title>Afraid to Die</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2012-05-23T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.8.48) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6002e65c-2df4-4a50-a445-f8cf76ef55be</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="images/calibre_cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Afraid_to_Die.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="images/00001.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="images/00002.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="images/00004.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="images/00005.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="images/00006.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="images/00007.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="images/00010.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="images/00011.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="images/00012.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="images/00013.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="Afraid_to_Die.html#filepos3923" type="toc" title="Table of Contents"/>
+    <reference href="images/calibre_cover.jpg" type="cover" title="Cover"/>
+  </guide>
+</package>

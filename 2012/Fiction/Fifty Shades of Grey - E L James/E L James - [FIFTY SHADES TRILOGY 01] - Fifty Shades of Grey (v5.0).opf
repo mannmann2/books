@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e5ccd01-73e6-4a3b-a17b-1679f257e833</dc:identifier>
+        <dc:title>Fifty Shades of Grey</dc:title>
+        <dc:creator opf:file-as="James, E L" opf:role="aut">E L James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.45) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;When literature student Anastasia Steele is drafted to interview the successful young entrepreneur Christian Grey for her campus magazine, she finds him attractive, enigmatic and intimidating. Convinced their meeting went badly, she tries to put Grey out of her mind - until he happens to turn up at the out-of-town hardware store where she works part-time. The unworldly, innocent Ana is shocked to realize she wants this man, and when he warns her to keep her distance it only makes her more desperate to get close to him. Unable to resist Ana’s quiet beauty, wit, and independent spirit, Grey admits he wants her - but on his own terms. Shocked yet thrilled by Grey's singular erotic tastes, Ana hesitates. For all the trappings of success – his multinational businesses, his vast wealth, his loving adoptive family – Grey is man tormented by demons and consumed by the need to control. When the couple embarks on a passionate, physical and daring affair, Ana learns more about her own dark desires, as well as the Christian Grey hidden away from public scrutiny. Can their relationship transcend physical passion? Will Ana find it in herself to submit to the self-indulgent Master? And if she does, will she still love what she finds? Erotic, amusing, and deeply moving, the Fifty Shades Trilogy is a tale that will obsess you, possess you, and stay with you forever.&lt;/p&gt;</dc:description>
+        <dc:publisher>Writer's Coffee Shop</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0345803485</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">wR7_WVAHbJAC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781612130286</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">10818738</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="{&quot;E L James&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Fifty Shades Trilogy" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2012-04-06T05:43:28+00:00" name="calibre:timestamp"/>
+        <meta content="Fifty Shades of Grey" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {&quot;cache_to_list&quot;: &quot;|&quot;, &quot;list_to_ui&quot;: &quot;, &quot;, &quot;ui_to_list&quot;: &quot;,&quot;}, &quot;is_multiple&quot;: &quot;|&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: [&quot;Romance&quot;], &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;genre&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Genre&quot;}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 3, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 24, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;make_category&quot;: true, &quot;composite_sort&quot;: &quot;text&quot;, &quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;Formats&quot;}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;#value#&quot;: 10, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {}, &quot;name&quot;: &quot;Quality&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="E L James - [FIFTY SHADES TRILOGY 01] - Fifty Shades of Grey (v5.0).jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
